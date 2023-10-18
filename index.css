@@ -46,6 +46,7 @@ body {
 }
 
 <style>
+	a.start:visited{color:black;}
 	a.start:link{color:black;}
 	a.start:hover{font-size:150%;}
 	a.start:active{color:blueviolet;}

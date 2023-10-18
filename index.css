@@ -45,10 +45,14 @@ body {
  	cursor:auto;
 }
 
-<style>
-	a.start:link, a.start:visited, a.start:focus {
-		color:black;
-	}
-	a.start:hover{font-size:150%;}
-	a.start:active{color:blueviolet;}
-</style>
+a.start:link, a.start:visited, a.start:focus {
+	color:black;
+}
+
+a.start:hover {
+	font-size:150%;
+}
+
+a.start:active {
+	color:blueviolet;
+}

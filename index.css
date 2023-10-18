@@ -11,9 +11,9 @@ body {
 
 	text-align:center;
  	position:fixed;
-    	top:30%;
-    	left:50%;
-    	transform:translate(-50%,-50%);
+    top:30%;
+    left:50%;
+    transform:translate(-50%,-50%);
 }
 
 .blue {
@@ -23,14 +23,13 @@ body {
 
 	text-align:center;
 	position:fixed;
-    	top:50%;
-    	left:50%;
-    	transform:translate(-50%,-50%);
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
 }
 
 .btn {
 	font-size:15;
-
 	background-color:white;
   	border-radius:50%;
   	padding:10px 20px;
@@ -38,14 +37,14 @@ body {
   	border-width:thin;
   	
 	position:fixed;
-    	top:75%;
-    	left:50%;
-    	transform:translate(-50%,-50%);
+    top:75%;
+    left:50%;
+    transform:translate(-50%,-50%);
 
- 	cursor:auto;
+    cursor:auto;
 }
 
-a.start:link, a.start:visited, a.start:focus {
+a.start:link, a.start:visited {
 	color:black;
 }
 

@@ -63,8 +63,8 @@ body {
 }
 
 <style>
-	a.home:link{color:black}
-	a.home:visited{color:black}
-	a.home:hover{font-size:150%}
+	a.home:link{color:black;}
+	a.home:visited{color:black;}
+	a.home:hover{font-size:150%;}
 	a.home:active{color:blueviolet;}
 </style>

@@ -52,6 +52,22 @@ body {
     cursor:auto;
 }
 
+.icons {
+	font-size:30;
+	background-color:white;
+  	border-radius:50%;
+  	padding:10px 30px;
+  	border-color:black;
+  	border-width:thin;
+
+  	position:fixed;
+    top:75%;
+    left:50%;
+    transform:translate(-50%,-50%);
+
+    cursor:auto;
+}
+
 a.home:link, a.home:visited {
 	color:black;
 }

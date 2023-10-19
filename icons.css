@@ -17,7 +17,7 @@ a.heart {
     left:45%;
     transform:translate(-50%,-50%);
 
-    cursor:auto;
+    cursor:pointer;
 }
 
 a.umbrella {
@@ -33,7 +33,7 @@ a.umbrella {
     left:50%;
     transform:translate(-50%,-50%);
 
-    cursor:auto;
+    cursor:pointer;
 }
 
 a.ball {
@@ -49,5 +49,5 @@ a.ball {
     left:55%;
     transform:translate(-50%,-50%);
 
-    cursor:auto;
+    cursor:pointer;
 }

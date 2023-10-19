@@ -4,6 +4,10 @@ body {
 	background-size:cover;
 }
 
+.arrow {
+	font-size:30;
+}
+
 a.heart {
 	font-size:30;
 	background-color:#5A5A5A;

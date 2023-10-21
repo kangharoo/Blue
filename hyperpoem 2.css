@@ -37,7 +37,7 @@ body {
   	border-width:thin;
   	
   	position:fixed;
-   	top:75%;
+	top:75%;
     left:50%;
     transform:translate(-50%,-50%);
 

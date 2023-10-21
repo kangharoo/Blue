@@ -38,22 +38,6 @@ body {
 
   	position:fixed;
     top:75%;
-    left:44%;
-    transform:translate(-50%,-50%);
-
-    cursor:pointer;
-}
-
-.button {
-	font-size:15;
-	background-color:white;
-  	border-radius:50%;
-  	padding:10px 20px;
-  	border-color:black;
-  	border-width:thin;
-
-  	position:fixed;
-    top:75%;
     left:50%;
     transform:translate(-50%,-50%);
 

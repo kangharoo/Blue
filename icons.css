@@ -4,50 +4,73 @@ body {
 	background-size:cover;
 }
 
-a.heart {
-	font-size:30;
-	background-color:#5A5A5A;
+.header .btn {
+	font-size:15;
+	background-color:white;
   	border-radius:50%;
-  	padding:10px 30px;
-  	border-color:none;
-  	border-width:none;
+  	padding:10px 20px;
+  	border-color:black;
+  	border-width:thin;
 
+	position:fixed;
+    top:75%;
+    left:50%;
+    transform:translate(-50%,-50%);
+
+    cursor:auto;
+}
+
+.cloud {
+	font-family:arial;
+	font-size:20;
+	color:white;
+
+	text-align:center;
+ 	position:fixed;
+    top:30%;
+    left:50%;
+    transform:translate(-50%,-50%);
+}
+
+.heart {
   	position:fixed;
-    top:55%;
-    left:45%;
+    top:50%;
+    left:40%;
     transform:translate(-50%,-50%);
 
     cursor:pointer;
 }
 
-a.umbrella {
-	font-size:30;
-	background-color:#5A5A5A;
-  	border-radius:50%;
-  	padding:10px 30px;
-  	border-color:none;
-  	border-width:none;
+.umbrella {
+	font-size:50;
 
 	position:fixed;
-    top:45%;
+    top:50%;
     left:50%;
     transform:translate(-50%,-50%);
 
     cursor:pointer;
 }
 
-a.ball {
-	font-size:30;
-	background-color:#5A5A5A;
-  	border-radius:50%;
-  	padding:10px 30px;
-  	border-color:none;
-  	border-width:none;
+.ball {
+	font-size:50;
 
 	position:fixed;
-    top:55%;
-    left:55%;
+    top:50%;
+    left:60%;
     transform:translate(-50%,-50%);
 
     cursor:pointer;
+}
+
+a.header:link, a.header:visited {
+	color:black;
+}
+
+a.header:hover {
+	font-size:150%;
+}
+
+a.header:active {
+	color:blueviolet;
 }
